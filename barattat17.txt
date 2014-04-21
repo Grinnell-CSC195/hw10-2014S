@@ -1,0 +1,8 @@
+SQL seems like a pretty cool way to store information on a server—it kind of reminds me of a lot of the excel functions but instead of being able to just clearly open it all up in excel the site has to be able to handle all that stuff without the person accessing it seeing that actual excel spreadsheet. Yay for queries and being able to access the data and filtering. 
+
+One thing I’d be curious about would be the speed of accessing this data and whether there were like better quicker ways of it all being stored and the slowdown for large amounts of data versus smaller ones or how the data itself is organized and how many different things you can recursively filter through.
+
+One thing that seems super annoying are the different types of SQL that exist and the variation between them. (Yay for PostgreSQL?) Just seems to make things a bit of a pain in the tush if you’re transferring data queries since there’s the lack of continuity between SQL types.
+
+
+-T

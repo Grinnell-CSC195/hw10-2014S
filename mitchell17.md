@@ -1,0 +1,3 @@
+SELECT token, forename, surname, pgp FROM users WHERE email = 'mitchell17@grinnell.edu' AND type='admin';
+
+This query selects a Blowfish hashed token, a first and last name, and a preferred gender pronoun from a table called users. After this step, it is likely that we'd check the token with the PHP crypt function to compare with a hashed version of the password they entered, and if that all worked out, we would log in [mitchell17] as an administrative user. If [mitchell17] was not an admin, no rows would be returned, and we could display a insufficient privileges warning instead of an incorrect password warning.

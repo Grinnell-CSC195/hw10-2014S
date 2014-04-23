@@ -1,0 +1,2 @@
+From what I've read, I think SQL seems pretty cool. An "online" version of Excel where one can show some information at a times
+I don't quite understand the need to have different types of SQL. Sounds quite annoying actually.

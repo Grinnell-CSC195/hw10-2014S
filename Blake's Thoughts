@@ -1,0 +1,13 @@
+Thoughts on SQL:
+
+
+
+-Not having a precise standard is annoying. Sounds like when lisp was starting up and there were tons of different variations of lisp, then finally common lisp and scheme happened. Could/would something similar happen with SQL, or is it not a relatable instance?
+
+-The “SELECT” statement seems pretty cool, though kind of confusing. Somewhere along the lines a user must input data (I assume) that can be stored appropriately so that SELECT can browse through it - this seems liable to lots of problems, as users are not exactly wizards when it comes to entering data. 
+
+-Subqueries look cool. 
+
+-The Wiki article talks about the semantics of SQL and the Null character. I wonder if Mr. Stone has a corresponding rant regarding the inconsistencies of SQL and how it undermines SQL’s integrity by preventing the calculation of truth tables (or something to that effect . . . ). 
+
+-How are tables stored and displayed? 

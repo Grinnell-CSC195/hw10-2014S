@@ -1,0 +1,29 @@
+#########
+# Page 27
+#########
+SQL notes
+
+Things to build a website that shows data
+-RDBMS database (relational database management System)
+-server-side scripting like PHP
+-use sql
+-use html/css
+
+data stored in tables
+-rows x columns 
+
+sql not case sensitive
+
+select distinct only returns different 
+use 'where' to filter, and/or to combine tests
+order by to change the view
+insert into to add things
+update to change existing: MUST use where
+
+SQL injection used by malicious users to get more things than are supposed to be
+
+SQL parameters to avoid
+
+Like to use patterns to filter
+
+Primary key-- must be not null and unique. used to identify unique identity

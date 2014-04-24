@@ -1,0 +1,29 @@
+Thoughts on SQL bounced from the Internet off the mind of Seth Hanson.
+
+SQL is a language designed to be used in operations involving
+databases. It has several main functions:
+          
+    SELECT - extracts data from a database
+    UPDATE - updates data in a database
+    DELETE - deletes data from a database
+    INSERT INTO - inserts new data into a database
+    CREATE DATABASE - creates a new database
+    ALTER DATABASE - modifies a database
+    CREATE TABLE - creates a new table
+    ALTER TABLE - modifies a table
+    DROP TABLE - deletes a table
+    CREATE INDEX - creates an index (search key)
+    DROP INDEX - deletes an index
+               *Copied from www.w3schools.com/sql/sql_syntax.asp
+
+Fun facts from Wikipedia:
+    -Developed by IBM in the early '70s (a.k.a. 'pretty old')
+    -Used to be called SEQUAL but had trademark issues with airplanes,
+    became SQL (is more hip now)
+
+
+It seems like this is a fairly complicated tool in web development -
+perhaps the reason we are not trying it ourselves - but it clearly is
+highly useful. Oh, if I had a database I was interested in, SQL would be my
+first choice, hands down. 
+

@@ -1,0 +1,39 @@
+SQL seems very interesting and thinking about database management makes me think of websites/businesses like Amazon and Ebay differently.
+
+
+I watched a video titled "Understanding the core components of SQL Server"
+It can be found using the following link: http://www.youtube.com/watch?v=bXbm0qGwgAw
+
+Relational Database Management System (RDBMS)
+- Examples include: SQL Server, SQLite, Oracle, FoxPro, etc.
+
+When working with a lot of data, RDBMS can check against adding invalid
+data, and also when multiple people try to access/edit data at once
+
+controls what gets access to the data
+if you want to get to the data, you go through the DBMS
+data is the business for many RDBMS clients (Ebay, Amazon, etc.)
+more than just a place to dump your data b/c it gives:
+   security 
+   integrity
+   performance
+   reliability
+
+good database also needs to be able to survive hardware issues w/o corrupting data 
+
+After 4 minutes, I realized that it wasn't actually going to be a tutorial,
+so I switched videos
+
+I watched a tutorial titled "SQL Server Queries Part 1 - Writing Basic
+Queries." It can be found at the following link: 
+http://www.youtube.com/watch?v=2-1XQHAgDsM
+
+ --     :used for 1 line comments
+/* */   :used for multi-line comments
+
+(When I'm learning a new language, the first thing I learn how to do is make comments)
+
+I learned a couple other new things, before switching over to w3schools
+-"In MySQL there are three main types : text, number, and Date/Time types."
+-"SQL developers have to decide what types of data will be stored inside each and every table column when creating a SQL table. The data type is a label and a guideline for SQL to understand what type of data is expected inside of each column, and it also identifies how SQL will interact with the stored data."
+http://www.w3schools.com/sql/sql_datatypes_general.asp

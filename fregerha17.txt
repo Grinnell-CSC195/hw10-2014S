@@ -1,0 +1,59 @@
+SQL seems like a pretty efficient and fast way to retrieve large amount of
+records from a database. It seem like using SQL doesn't require a lot of
+code writing. I also think creating views is useful because it allows you
+to customize data. You don't have to worry about computed values or column
+names being formatted differently than the base table columns when you want
+to display them.
+
+*SQL stands for Structured Query Language
+*RDBMS (Relational Database Management System) is the basis for SQL and for
+ all modern database systems
+*to build a web site that shows data from a database you need an RDBMS
+ program, server-side scripting langauge (PHP, ASP, etc.), SQL ot get the
+ data, HTML/CSS
+
+*lets you access and manipulate databases. It can:
+      -execute queries
+      -retrieve data
+      -insert/update/delete records
+      -create new databases/tables in database
+      -create stored procedures
+      -create views
+      -set permissions (on tables, procedures, and views)
+
+*actions are done using SQL statements
+
+*important commands (not case sensitive):
+SELECT - extracts data from a database
+UPDATE - updates data in a database
+DELETE - deletes data from a database
+INSERT INTO - inserts new data into a database
+CREATE DATABASE - creates a new database
+ALTER DATABASE - modifies a database
+CREATE TABLE - creates a new table
+ALTER TABLE - modifies a table
+DROP TABLE - deletes a table
+CREATE INDEX - creates an index (search key)
+DROP INDEX - deletes an index
+
+*a column may contain many duplicate values and sometimes you
+ only want to list the different (distinct) values. The DISTINCT keyword
+ can be used to return only distinct (different) values. It looks like
+ this:
+
+SELECT DISTINCT column_name,column_name
+FROM table_name;
+
+*WHERE clause used to extract only those records that fulfill a specified
+ criterion. It looks like this:
+
+SELECT column_name,column_name
+FROM table_name
+WHERE column_name operator value;
+
+*to specify multiple values in  WHERE clause, us the IN operator. It looks
+ like this:
+
+SELECT column_name(s)
+FROM table_name
+WHERE column_name IN (value1,value2,...);

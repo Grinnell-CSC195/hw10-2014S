@@ -1,0 +1,28 @@
+****************************************************************
+Boateng Asante, Larry
+SQL Notes
+CSC 195 - MediaScripting
+Readings from: http://www.siue.edu/~dbock/cmis450/sqlnotes.htm
+*****************************************************************
+
+SQL stands for Structured Query Language and it is used to interact with a database. It is usually the standard
+language used for relational database management systems. SQL is used to perform tasks such as store, update and query
+databases.Most of the actions done in SQL are done with statements. It is useful to note that
+SQL is not case sensitive and that most SQL databases have their own proprietary extensions in addition
+to the SQL standard. There are some basic commands used for this language:
+
+
+SELECT
+List the columns including expressions involving columns from base tables or views to be projected 
+into the table that will be the result of the command.
+
+FROM	
+Identifies the tables or views from which columns will be chosen to appear in the result table.
+This must also list the tables or views needed to join tables to process the query.
+
+WHERE	
+Includes conditions that restrict the rows selected as well as the conditions for joining two or more tables or views.
+
+I personally think the learning curve for SQL is quite manageable and it's pretty easy to understand. It also allows
+users to create and customize dynamic databases which could be used to interact with various platforms like websites and
+mobile applications.

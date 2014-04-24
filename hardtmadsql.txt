@@ -1,0 +1,14 @@
+http://www.sqlcourse2.com/intro2.html
+http://www.1keydata.com/sql/sqldelete.html
+
+. Basic commands:
+	- select colname from tablename where condition;
+	- order by colname asc/desc;
+	- group by colname1, arthop(colname2), from tablename, group by colname;
+	- insert into tablename (colname1, colname2, ... , colnamen) values (val1, val2, ... , valn);
+	- delete from tablename where condition;
+
+. SQL processes data in groups. 
+. Can select distinct data versus (default) all.
+. LIKE % and _ make conditional statements much more powerful.
+. Joins lets us store and select groups of related data in different tables.

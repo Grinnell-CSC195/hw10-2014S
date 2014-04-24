@@ -1,5 +1,8 @@
 Thoughts on SQL:
 
-SQL seems to be the most logical and efficient language for editing, retrieving information from, and executing queries against large data sets.  The smoothness with which everything is implemented makes messing around with data sets really enjoyable. It also seems somewhat dangerous to use if you don’t understand how to implement it properly (SQL injections: http://xkcd.com/327/).   
+SQL seems to be the most logical and efficient language for editing, retrieving information from, 
+and executing queries against large data sets.  The smoothness with which everything is implemented 
+makes messing around with data sets really enjoyable. It also seems somewhat dangerous to use if 
+you don’t understand how to implement it properly (SQL injections: http://xkcd.com/327/).   
 
 -[schlager]

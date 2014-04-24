@@ -1,0 +1,18 @@
+SQL!! 
+
+I think SQL is pretty cool. I really like tables, and this is the easiest
+language I've seen that deals with tables (especially compared to using HTML
+and javascript...) 
+
+According to the W3schools tutorial, 
+"To build a web site that shows data from a database, you will need:
+
+    An RDBMS database program (i.e. MS Access, SQL Server, MySQL)
+    To use a server-side scripting language, like PHP or ASP
+    To use SQL to get the data you want
+    To use HTML / CSS"
+
+This is all understandable... However, I wish there was an easier way to
+use SQL to build simple tables on webpages than having to use server-side
+scripting and a database program. Basically I just want to build pretty
+tables all the time.  

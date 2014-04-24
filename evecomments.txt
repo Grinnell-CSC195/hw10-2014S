@@ -1,0 +1,1 @@
+I played around with sqlzoo.com. I learned how to deal with tables using sql, which was pretty cool, and seems like it could have a lot of practical applications.
